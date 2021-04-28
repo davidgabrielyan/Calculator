@@ -1,5 +1,5 @@
 # Project "Calculator"
-# 24.08.2017
+# 24.08.2018
 # created by David Gabrielyan
 
 from kivy.app import App
